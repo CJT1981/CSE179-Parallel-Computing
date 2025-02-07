@@ -17,5 +17,6 @@ int main()
         firstTerm = secondTerm;
         secondTerm = nextTerm;
     }
+    cout << endl;
     return 0;
 }
