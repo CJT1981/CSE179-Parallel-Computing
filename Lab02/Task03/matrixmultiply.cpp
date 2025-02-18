@@ -68,4 +68,6 @@ int main()
             c[i][j] += a[i][k] * b[k][j];
       }
   } // end of parallel work
+
+  cout << a << endl;
 }
