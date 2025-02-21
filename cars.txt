@@ -1,0 +1,17 @@
+name:               number:
+Tow Gap             4
+Nitroade            28
+Shifty Drug         35
+Leak Less           52
+Fiber Fuel          56
+Octane Gain         58
+Vitoline            61
+Transberry Juice    63
+RPM                 64
+N20 Cola            68
+Gasprin             70
+Vinyl Toupee        76
+Retread             79
+Bumper Save         90
+Spare Mint          93
+Clutch Aid          121    
