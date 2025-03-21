@@ -1,0 +1,7 @@
+Lab06/              # Main folder
+│-- Makefile        # Makefile at the root
+│-- Task01/         # Subfolder for Task01
+│   │-- Task01_1.c  # Source file 1
+│   │-- Task01_2.c  # Source file 2
+|-- Task02/         # Subfolder for Task02
+|   |--Task02.c     # Source file 
